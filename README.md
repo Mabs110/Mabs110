@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Mabs
 
-<!--
-**Mabs110/Mabs110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Diseñadora UX/UI** con enfoque en **experiencias visuales atractivas y funcionales**.  
+Me interesa crear interfaces que conecten con las personas y comuniquen emociones de forma clara y estética.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌿 Sobre mí
+- 💻 Formación en **Diseño UX** con certificación de Google.  
+- 🎨 Experiencia creando **interfaces, prototipos y sistemas visuales**.  
+- 🧠 Interés por la **psicología del color, la semiótica** y cómo el diseño comunica emociones.  
+- 🤝 Disfruto colaborar en proyectos interdisciplinarios (como *Fusionarte* y *Sprout*).  
+- 🌱 Siempre aprendiendo sobre diseño UI, accesibilidad y microinteracciones.
+
+---
+
+### 🛠️ Herramientas y habilidades
+**Diseño:** Figma · Adobe XD · Illustrator · Photoshop  
+**Prototipado:** Figma · FigJam  
+**Front-end básico:** HTML · CSS · Sass  
+**Metodologías:** Design Thinking · Atomic Design · BEM  
+
+---
+
+### ✨ Algunos de mis proyectos
+- 🪴 [Sprout](https://github.com/Mabs110/Sprout-marketing): Diseño y estructura visual para una marca ecológica.  
+- 🎭 [Fusionarte](https://github.com/Mabs110): Proyecto colaborativo que une arte y diseño.  
+- 💫 [Prácticas de UI](https://github.com/Mabs110?tab=repositories): Ejercicios de maquetado y diseño responsivo.
+
+---
+
+### 📫 Conectemos
+💌 [LinkedIn](https://linkedin.com/in/tu-usuario)  
+📂 [Portafolio en línea](https://tuportafolio.com) *(si tienes uno)*  
+📧 mareganamimbernalsalgado@gmail.com  
+
+---
+
+> “El buen diseño no grita, susurra con elegancia.” ✨
