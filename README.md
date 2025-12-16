@@ -30,9 +30,8 @@ Me interesa crear interfaces que conecten con las personas y comuniquen emocione
 ---
 
 ### 📫 Conectemos
-💌 [LinkedIn](https://linkedin.com/in/tu-usuario)  
-📂 [Portafolio en línea](https://tuportafolio.com) *(si tienes uno)*  
-📧 mareganamimbernalsalgado@gmail.com  
+💌 https://www.linkedin.com/in/marbernal-diseñoweb
+📧 mareg_anamim@hotmail.com  
 
 ---
 
